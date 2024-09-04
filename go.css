@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    margin: 0;
+    padding: 2;
+    height: 10vh;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+}
+
+.card {
+    background-color: #e5f0bf;
+    padding: 20px;
+    border-radius: 10px;
+    border-color: bisque;
+    text-align: center;
+    
+}
+h1, p, button {
+    display: block;
+    margin: 10px 0;
+}
+button {
+    margin: 10px 0;
+    justify-content: center;
+    border: none;
+    border-radius: 2px 10px;
+    cursor: pointer;
+    margin: 10px 0; 
+    box-shadow: #73756a;
+    color: rgb(99, 94, 88)
+}
+h1 {
+    color: #73756a;
+    
+}
